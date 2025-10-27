@@ -1,0 +1,46 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data directory (MNIST dataset)
+data/
+
+# Model weights
+*.pth
+*.pt
+*.pkl
+
+# Generated visualizations
+*.png
+*.jpg
+*.jpeg
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
